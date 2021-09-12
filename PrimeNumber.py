@@ -1,4 +1,4 @@
-
+# A basic program for learning if a number prime number
 number =int(input("Please enter a number: ")) 
 def Is_Prime(number):
     if number > 1:

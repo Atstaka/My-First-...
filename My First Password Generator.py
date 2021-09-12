@@ -1,3 +1,4 @@
+#A basic program for creating a strong password.
 import random
 import string
 numbers = 1,2,3,4,5,6,7,8,9,0
